@@ -1,0 +1,9 @@
+## How to run the code
+-----------------------------
+1. run the Apache Spark
+
+./spark-2.4.0-bin-hadoop2.7/bin/spark-shell
+
+2. Run Scala Program
+
+:load classify.scala
